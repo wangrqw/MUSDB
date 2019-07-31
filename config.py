@@ -12,16 +12,16 @@ class MIN:
     SR = 16000
     N_FFT = 512
     HOP_LENGTH = N_FFT//2
-    ORG_DIR = './WAV'
-    FIG_DIR = './GRAPH'
-    SND_DIR = './SOUND'
+    ORG_DIR = '../WAV'
+    FIG_DIR = '../GRH'
+    SND_DIR = '../SMP'
     
     
 class LOSSLESS:
     SR = 44100
     N_FFT = 2048
     HOP_LENGTH = N_FFT//2
-    ORG_DIR = './IN'
-    FIG_DIR = './GRAPH'
-    SND_DIR = './SOUND'
+    ORG_DIR = '../WAV'
+    FIG_DIR = '../GRH'
+    SND_DIR = '../SMP'
     
