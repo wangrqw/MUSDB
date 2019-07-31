@@ -1,8 +1,9 @@
 # MUSDB
 
-	python=3.6.0
-	numpy=2.7.0
-	matplotlib=3.0.0
+	python=3.7.1
+	numpy=1.15.4
+	matplotlib=3.0.2
+    librosa=0.6.2
 
 ## config.py
 	settings of audio processing: minimum and lossless
